@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/bin/Debug/net6.0/zadaha4
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/bin/Debug/net6.0/zadaha4.deps.json
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/bin/Debug/net6.0/zadaha4.runtimeconfig.json
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/bin/Debug/net6.0/zadaha4.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/bin/Debug/net6.0/zadaha4.pdb
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/refint/zadaha4.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.pdb
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/zadaha4.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha4/obj/Debug/net6.0/ref/zadaha4.dll
