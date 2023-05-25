@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/bin/Debug/net6.0/zadaha6
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/bin/Debug/net6.0/zadaha6.deps.json
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/bin/Debug/net6.0/zadaha6.runtimeconfig.json
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/bin/Debug/net6.0/zadaha6.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/bin/Debug/net6.0/zadaha6.pdb
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/refint/zadaha6.dll
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.pdb
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/zadaha6.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C#DZ_1/zadaha6/obj/Debug/net6.0/ref/zadaha6.dll
